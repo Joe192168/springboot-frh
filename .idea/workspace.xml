@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd1fda2d-edcb-43f7-bde2-346c73609ebd" name="Default Changelist" comment="" />
+    <list default="true" id="bd1fda2d-edcb-43f7-bde2-346c73609ebd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-api/src/main/java/com/aip/ApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-api/src/main/java/com/aip/common/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-api/src/main/java/com/aip/controller/ApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-api/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-api/target/classes/META-INF/springbootapi.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-api/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-api/target/classes/com/aip/ApiApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-api/target/classes/com/aip/common/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-api/target/classes/com/aip/controller/ApiController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/springbootclient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/src/main/java/com/feign/FeignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/src/main/java/com/feign/common/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/src/main/java/com/feign/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/src/main/java/com/feign/servers/UserClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/target/classes/META-INF/springbootclient.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/target/classes/com/feign/FeignApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/target/classes/com/feign/common/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/target/classes/com/feign/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/target/classes/com/feign/servers/UserClient$UserFallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-client/target/classes/com/feign/servers/UserClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-frh.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +54,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -37,6 +73,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1eIszyq6pfVkK1ZQfBAgOEeTiFD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -138,11 +175,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594020707689</updated>
-      <workItem from="1594020710593" duration="18181000" />
+      <workItem from="1594020710593" duration="18817000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
